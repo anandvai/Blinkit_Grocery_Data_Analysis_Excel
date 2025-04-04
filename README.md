@@ -1,9 +1,11 @@
-# Blinkit_Grocery_Data_Analysis_Excel
 # 📊 Blinkit Grocery Data Analysis (Excel)
 
 ## 📌 Project Overview  
 The **Blinkit Grocery Data Analysis** project aims to extract meaningful insights from **8,000+ grocery records** using **Microsoft Excel**.  
 By leveraging **pivot tables, charts, and data cleaning techniques**, this project provides an in-depth analysis of **sales trends, outlet performance, and product visibility**.  
+
+![Screenshot 2025-03-31 112420](https://github.com/user-attachments/assets/95b33b38-2914-423c-9b03-8f11baa341f4)
+
 
 ### Key Analysis Areas:
 - ✅ **Sales performance** of different grocery items.  
